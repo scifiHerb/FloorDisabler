@@ -65,8 +65,6 @@ namespace FloorDisabler
             Plugin.Log.Info(defaultEnvObj.name);
             foreach (Transform i in defaultEnvObj.transform)
             {
-                Plugin.Log.Info(i.name);
-
                 //Player Place
                 if (i.name.IndexOf("PlayersPlace") != -1 || i.name.IndexOf("Floor") != -1 || i.name.IndexOf("TopLightMesh") != -1)
                 {
