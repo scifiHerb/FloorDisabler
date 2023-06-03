@@ -1,0 +1,7 @@
+﻿<settings-container>
+	<checkbox text='Enabled' value='Enabled'></checkbox>
+	<checkbox text='PlayersPlace' value='PlayersPlace'></checkbox>
+	<checkbox text='Laser' value='Laser'></checkbox>
+	<checkbox text='Ring' value='Ring'></checkbox>
+	<checkbox text='Spectrograms' value='Spectrograms'></checkbox>
+</settings-container>
